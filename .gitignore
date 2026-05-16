@@ -1,0 +1,5 @@
+.DS_Store
+novel
+saves/
+build/
+*.o
